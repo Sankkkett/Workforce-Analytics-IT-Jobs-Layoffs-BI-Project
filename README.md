@@ -23,7 +23,9 @@ The analysis combines **job postings data** and **layoff records** into a unifie
 
 ## 📂 Dataset Description
 - **Jobs Dataset**: Job title, company, location, skills, experience range, salary, job type, and posting date.
+    link: 
 - **Layoffs Dataset**: Company, industry, role, layoff count, layoff date, and reason.
+
 
 Total records analyzed: **15K+**
 
@@ -74,7 +76,10 @@ The complete Power BI dashboard has been exported as a **PDF** and is available 
 GitHub automatically renders the PDF for easy viewing.
 
 ➡️ **Open the PDF file above to view the full dashboard**
+### 📄 Power BI PDF Report
+A complete detailed PDF report is included in the repository.
 
+👉 **[Download PoowerBI Report (PDF)](https://github.com/Sankkkett/Workforce-Analytics-IT-Jobs-Layoffs-BI-Project/blob/main/IT%20jobs_PowerBI.pdf)**
 ---
 
 ## 🎯 Business Value
