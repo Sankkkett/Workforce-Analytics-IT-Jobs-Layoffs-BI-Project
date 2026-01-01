@@ -23,9 +23,9 @@ The analysis combines **job postings data** and **layoff records** into a unifie
 
 ## 📂 Dataset Description
 - **Jobs Dataset**: Job title, company, location, skills, experience range, salary, job type, and posting date.
-    link: 
+- Link: https://github.com/Sankkkett/Workforce-Analytics-IT-Jobs-Layoffs-BI-Project/blob/main/india_jobs_dataset.xlsx
 - **Layoffs Dataset**: Company, industry, role, layoff count, layoff date, and reason.
-
+- Link: https://github.com/Sankkkett/Workforce-Analytics-IT-Jobs-Layoffs-BI-Project/blob/main/india_layoffs_dataset.xlsx
 
 Total records analyzed: **15K+**
 
