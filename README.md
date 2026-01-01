@@ -77,7 +77,7 @@ GitHub automatically renders the PDF for easy viewing.
 
 ➡️ **Open the PDF file above to view the full dashboard**
 ### 📄 Power BI PDF Report
-A complete detailed PDF report is included in the repository.
+
 
 👉 **[Download PoowerBI Report (PDF)](https://github.com/Sankkkett/Workforce-Analytics-IT-Jobs-Layoffs-BI-Project/blob/main/IT%20jobs_PowerBI.pdf)**
 ---
